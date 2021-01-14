@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="./img/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/solent-share-creativity-music.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Wendy+One:400|Lato:400,700,900|Inter:500|Roboto:500");
+
+      @font-face {
+        font-family: "SF UI Text-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5911b234d19ef1000b84e188/SFText-Regular.otf")
+          format("opentype");
+      }
+
+      @font-face {
+        font-family: "Avenir-Medium";
+        font-style: normal;
+        font-weight: 500;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c48998dd7b7cc000b095d43/Avenir.ttc") format("None");
+      }
+
+      @font-face {
+        font-family: "Avenir-Heavy";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4b283968bc67000aeeb21e/Avenir-Heavy-05.ttf")
+          format("truetype");
+      }
+
+      @font-face {
+        font-family: "TT Norms-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c4ab062fc64b3000de70b70/TTNorms-Bold.otf") format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="" />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="solent-share-creativity-music" />
+    <div class="container-center-horizontal">
+      <form class="solent-share-creativity-music screen" name="form2" action="form2" method="post">
+        <div class="header-C61RwL">
+          <div class="x-light-IcPKRJ">
+            <div class="home-xng6eV border-class-1 smart-layers-pointers">Home</div>
+            <a href="albums.html"
+              ><div class="music-page-xng6eV border-class-1 lato-normal-abbey-18px smart-layers-pointers">
+                Music page
+              </div></a
+            >
+            <div class="blogs-xng6eV border-class-1 lato-normal-abbey-18px smart-layers-pointers">Blogs</div>
+          </div>
+          <img class="image-7-IcPKRJ" src="img/image-7@2x.jpg" />
+          <div class="misc-avatar40x40-ab-IcPKRJ">
+            <div class="colors-bac-d-gradient-VXNvua"></div>
+            <div class="x20-sp-title-medium-VXNvua"><div class="title-4uYf9V valign-text-middle">NA</div></div>
+          </div>
+          <img class="search-IcPKRJ" src="img/search@2x.svg" />
+        </div>
+        <div class="overlap-group1-C61RwL">
+          <img class="background1-RH0WJ5" src="img/background1@1x.svg" />
+          <div class="x3rd-comp-RH0WJ5">
+            <div class="text-2wBF32">
+              <div class="title-w9B5sx border-class-1">The musical one</div>
+              <div class="subtitle-w9B5sx border-class-1 lato-normal-abbey-18px">
+                If your a musical student or just love listening to music, why not listen to some songs your fellow
+                students have produced or&nbsp;&nbsp;add a music you made yourself.
+              </div>
+              <div class="cta-w9B5sx smart-layers-pointers">
+                <div class="rectangle-1-fjm56r"></div>
+                <a href="albums.html"><div class="music-page-fjm56r border-class-1">MUSIC PAGE</div></a>
+              </div>
+            </div>
+            <div class="singerimg-2wBF32">
+              <iframe
+                style="border: 0; pointer-events: auto"
+                id="ytplayer"
+                type="text/html"
+                width="100%"
+                height="100%"
+                src="https://www.youtube.com/embed/sEhfQsurahA?rel=0&mute=1&autoplay=1"
+                frameborder="0"
+                allowfullscreen="allowfullscreen"
+                mozallowfullscreen="mozallowfullscreen"
+                msallowfullscreen="msallowfullscreen"
+                oallowfullscreen="oallowfullscreen"
+                webkitallowfullscreen="webkitallowfullscreen"
+              ></iframe>
+            </div>
+          </div>
+          <div class="miss-cupcake-RH0WJ5">
+            <div class="overlap-group2-KQ9K1W">
+              <div class="title-vKQLEC border-class-1">Share your Ideas</div>
+              <div class="subtitle-vKQLEC border-class-1 lato-normal-abbey-18px">
+                We are proud to offer you a chance to share your work and recieve feedback and opportunities
+              </div>
+            </div>
+            <div class="cta-KQ9K1W smart-layers-pointers">
+              <div class="register-Kl7lyv border-class-1">Register</div>
+            </div>
+          </div>
+          <div class="title-RH0WJ5 border-class-1">Celebrating the little things</div>
+          <img class="video-RH0WJ5" src="img/video@1x.jpg" />
+          <div class="subtitle-RH0WJ5 border-class-1">
+            We believe in celebrating the little things, working hard and supporting one another. We work on creating a
+            caring community through sharing. <br /><br />We are committed to building a social environment where we can
+            all learn,<br />grow and be our best selves.
+          </div>
+        </div>
+        <div class="overlap-group-C61RwL">
+          <img class="background2-4eduM0" src="img/background2@1x.svg" />
+          <div class="footer-4eduM0">
+            <div class="auto-flex3-tybepC">
+              <div class="auto-flex2-bLWJvS">
+                <div class="ti3tle-Acup6n border-class-1">solent share creativity</div>
+                <a href="" target="_blank"
+                  ><div class="subtitle-Acup6n border-class-1 lato-bold-oasis-18px">Solent</div></a
+                >
+                <a href="" target="_blank"
+                  ><div class="subtitle-gzbRuy border-class-1 lato-bold-oasis-18px">Our story</div></a
+                >
+                <a href="" target="_blank"
+                  ><div class="subtitle-iQ3M1B border-class-1 lato-bold-oasis-18px">Why SSE</div></a
+                >
+              </div>
+              <div class="auto-flex-bLWJvS">
+                <div class="subtitle-tLrs6f border-class-1 lato-bold-oasis-18px">update straight to up your Inbox</div>
+                <div class="overlap-group2-tLrs6f">
+                  <div class="rectangle-1-1nTYKY"></div>
+                  <input
+                    class="subtitle-1nTYKY border-class-1"
+                    name="subtitle13"
+                    placeholder="Email address"
+                    type="email"
+                    required
+                  />
+                </div>
+                <div class="overlap-group3-tLrs6f">
+                  <a href="" target="_blank"
+                    ><div class="subtitle-GxSMRH border-class-1 lato-bold-oasis-18px">Privacy policy</div></a
+                  >
+                  <a href="" target="_blank"
+                    ><div class="subtitle-FUvGVV border-class-1 lato-bold-oasis-18px">Cookies policy</div></a
+                  >
+                </div>
+                <a href="" target="_blank"
+                  ><div class="subtitle-SwcvWr border-class-1 lato-bold-oasis-18px">Terms of use</div></a
+                >
+              </div>
+              <a href="javascript:SubmitForm('form2')">
+                <div class="frame-1-bLWJvS smart-layers-pointers">
+                  <div class="send-tTN22q border-class-1">SEND</div>
+                </div></a
+              >
+            </div>
+            <div class="auto-flex1-tybepC">
+              <div class="textlabel-12Hso3 lato-bold-oasis-18px">©</div>
+              <a href="" target="_blank"
+                ><div class="subtitle-12Hso3 border-class-1 lato-bold-oasis-18px">Ndesign 2020</div></a
+              >
+            </div>
+          </div>
+          <div class="title-4eduM0 border-class-1">Read/Add a story or Blog</div>
+          <div class="subtitle-4eduM0 border-class-1">
+            If your a musical student or just love listening to music, why not listen to some songs your fellow students
+            have produced or&nbsp;&nbsp;add a music you made yourself.
+          </div>
+          <img class="image-8-4eduM0" src="img/image-8@1x.jpg" />
+        </div>
+      </form>
+    </div>
+    <script>
+
+      if (!HTMLFormElement.prototype.reportValidity) {
+        HTMLFormElement.prototype.reportValidity = function () {
+          if (this.checkValidity()) return true;
+          var btn = document.createElement("button");
+          this.appendChild(btn);
+          btn.click();
+          this.removeChild(btn);
+          return false;
+        };
+      }
+
+      function SubmitForm(form_name) {
+        var form = document.getElementsByName(form_name)[0];
+        if (form.reportValidity()) {
+          form.submit();
+          if (window.submitted) window.submitted();
+        }
+      }
+    </script>
+  </body>
+</html>

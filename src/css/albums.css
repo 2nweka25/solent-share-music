@@ -1,0 +1,1761 @@
+/* screen - albums */
+
+.albums {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 2169px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 922px;
+}
+.albums .add-all-to-favs-AIJoEv {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'TT Norms-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 51px;
+  left: 19px;
+  letter-spacing: -0.60px;
+  line-height: 20.3px;
+  position: absolute;
+  text-align: left;
+  top: 77px;
+  width: 104px;
+}
+.albums .arrow-chev-onbigright-3aK2Ty {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 37px;
+  position: relative;
+  width: 24px;
+}
+.albums .arrow-chev-onbigright-IxGhfg {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 51px;
+  justify-content: flex-start;
+  margin-top: 36px;
+  overflow: hidden;
+  padding: 0 15.0px;
+  position: relative;
+  width: 54px;
+}
+.albums .arrow-chev-onbigright-c8Zezl {
+  background-color: transparent;
+  height: 37px;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+.albums .arrow-chev-onbigright-gtxLOf {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 51px;
+  margin-left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+.albums .arrow-chev-onbigright-gtxLOf:hover {
+
+transform: translate(5px, 0);
+}
+.albums .arrow-chevronbigleft-JwG8vI {
+  background-color: transparent;
+  height: 37px;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+.albums .arrow-chevronbigleft-gtxLOf {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 51px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 54px;
+}
+.albums .arrow-chevronbigleft-gtxLOf:hover {
+
+transform: translate(-5px, 0);
+}
+.albums .arrow-chevronbigleft-ol4xIt {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 37px;
+  position: relative;
+  width: 24px;
+}
+.albums .arrow-chevronbigleft-tIrUBe {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 51px;
+  justify-content: flex-start;
+  margin-top: 36px;
+  overflow: hidden;
+  padding: 7.0px 15.0px;
+  position: relative;
+  width: 54px;
+}
+.albums .at-least-for-now-yyDtVX {
+  background-color: transparent;
+  color: rgba(228,228,228,1.0);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 163px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .auto-flex-bLWJvS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 95px;
+  min-height: 307px;
+  position: relative;
+  width: 395px;
+}
+.albums .auto-flex1-tybepC {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 49px;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 304px;
+  position: relative;
+  width: auto;
+}
+.albums .auto-flex2-bLWJvS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-height: 294px;
+  position: relative;
+  width: 177px;
+}
+.albums .auto-flex3-tybepC {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 307px;
+  justify-content: flex-start;
+  min-width: 805px;
+  position: relative;
+  width: auto;
+}
+.albums .auto-flex4-Fh7nUm {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 0px;
+  min-height: 319px;
+  position: relative;
+  width: 192px;
+}
+.albums .auto-flex5-Fh7nUm {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 27px;
+  min-height: 319px;
+  position: relative;
+  width: 193px;
+}
+.albums .auto-flex6-3qpAIQ {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 324px;
+  justify-content: flex-start;
+  margin-top: 11px;
+  min-width: 797px;
+  position: relative;
+  width: auto;
+}
+.albums .auto-flex7-MVIQEK {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 289px;
+  position: relative;
+  width: 193px;
+}
+.albums .auto-flex8-0UhoSn {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 289px;
+  justify-content: flex-start;
+  min-width: 796px;
+  position: relative;
+  width: auto;
+}
+.albums .auto-flex9-0UhoSn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 51px;
+  justify-content: flex-start;
+  margin-right: 14.0px;
+  margin-top: 36px;
+  min-width: 108px;
+  position: relative;
+  width: auto;
+}
+.albums .background2-4eduM0 {
+  background-color: transparent;
+  height: 1730px;
+  left: 0px;
+  position: absolute;
+  top: 68px;
+  width: 918px;
+}
+.albums .believer-FxRuPw {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 81px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .benjamin-clementine-TxM8VD {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 146px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .benjamin-clementine-fzavzt {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 146px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .benjamin-clementine-yyDtVX {
+  background-color: transparent;
+  color: rgba(255,255,255,0.48);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 15px;
+  min-width: 146px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .blogs-xng6eV {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  margin-top: 1.0px;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 77px;
+}
+.albums .blogs-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.albums .chaff-dust-OYcg2P {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 118px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .cilplus-xng6eV {
+  align-items: center;
+  align-self: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 27px;
+  justify-content: flex-start;
+  margin-left: 21px;
+  overflow: hidden;
+  padding: 0 3px;
+  position: relative;
+  width: 24px;
+}
+.albums .colors-bac-d-gradient-VXNvua {
+  background-color: transparent;
+  background-image: url(../img/bg-gradient@2x.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.albums .dream-on-XXlQXL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 98px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .dream-on-ztr1Ek {
+  background-color: transparent;
+  color: rgba(228,228,228,1.0);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 98px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .footer-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 70px;
+  min-height: 416px;
+  position: absolute;
+  top: 1343px;
+  width: 805px;
+}
+.albums .frame-1-3qiD0e {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 22px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 146px;
+}
+.albums .frame-1-B7WdcB {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 156px;
+}
+.albums .frame-1-HAfyqM {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 140px;
+}
+.albums .frame-1-ahIjTr {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 98px;
+}
+.albums .frame-1-bLWJvS {
+  background-color: var(--oasis);
+  border-radius: 8px;
+  flex-shrink: 0;
+  height: 43px;
+  margin-left: 32px;
+  margin-top: 57.55px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+.albums .frame-1-bLWJvS:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-1-iIYd5q {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 118px;
+}
+.albums .frame-1-spFrKx {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 156px;
+}
+.albums .frame-1-wkQhJn {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 22px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 146px;
+}
+.albums .frame-1-wz3uof {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: flex-start;
+  left: 10px;
+  overflow: hidden;
+  position: absolute;
+  top: 186px;
+  width: 111px;
+}
+.albums .frame-10-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 74px;
+  min-height: 431px;
+  position: absolute;
+  top: 0px;
+  width: 249px;
+}
+.albums .frame-10-Fh7nUm {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-top: 5px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-10-Fh7nUm:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-10-IxGhfg {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-10-IxGhfg:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-10-tIrUBe {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-10-tIrUBe:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-11-Fh7nUm {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-left: 27px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-11-Fh7nUm:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-2-W9gGPL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-top: 19px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-2-W9gGPL:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-3-gR69Qu {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 37px;
+  justify-content: flex-start;
+  left: 30px;
+  overflow: hidden;
+  position: absolute;
+  top: 348px;
+  width: 98px;
+}
+.albums .frame-3-llZiop {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 37px;
+  justify-content: flex-start;
+  left: 30px;
+  overflow: hidden;
+  position: absolute;
+  top: 348px;
+  width: 163px;
+}
+.albums .frame-5-MVIQEK {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-left: 12px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-5-MVIQEK:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-6-MVIQEK {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-left: 27px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-6-MVIQEK:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-7-MVIQEK {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 232px;
+  margin-left: 27px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 179px;
+}
+.albums .frame-7-MVIQEK:hover {
+
+transform: scale(1.1);
+}
+.albums .frame-8-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 374px;
+  min-height: 431px;
+  position: absolute;
+  top: 0px;
+  width: 249px;
+}
+.albums .group-1253-4eduM0 {
+  background-color: transparent;
+  height: 140px;
+  left: 724px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 160px;
+}
+.albums .group-1253-4eduM0:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.albums .group-1253-BJQsbv {
+  background-color: transparent;
+  height: 140px;
+  left: 724px;
+  pointer-events: auto;
+  position: absolute;
+  top: 199px;
+  transition: all 0.2s ease;
+  width: 160px;
+}
+.albums .group-1253-BJQsbv:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.albums .header-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 56px;
+  position: relative;
+  width: 918px;
+}
+.albums .home-xng6eV {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1.0px;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+.albums .home-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.albums .hyonna-OYcg2P {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 64px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .image-7-IcPKRJ {
+  background-color: transparent;
+  height: 87px;
+  left: 291px;
+  position: absolute;
+  top: 19px;
+  width: 168px;
+}
+.albums .imagine-dragon-FxRuPw {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 111px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .jazz-TxM8VD {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 43px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .latest-tracks-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 74px;
+  min-height: 373px;
+  position: absolute;
+  top: 887px;
+  width: 797px;
+}
+.albums .latest-tracks-added-3qpAIQ {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 38px;
+  min-width: 331px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .minicaps-iAgrsa {
+  background-color: transparent;
+  color: rgba(224,224,224,1.0);
+  flex-shrink: 0;
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12.9px;
+  min-height: 18px;
+  position: relative;
+  text-align: right;
+  width: 37px;
+}
+.albums .minicaps-x0GJT8 {
+  background-color: transparent;
+  color: rgba(224,224,224,1.0);
+  flex-shrink: 0;
+  font-family: 'Roboto', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 12.9px;
+  min-height: 18px;
+  position: relative;
+  text-align: right;
+  width: 37px;
+}
+.albums .minimal-fzavzt {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  margin-left: 0.05px;
+  min-height: 21px;
+  min-width: 80px;
+  position: relative;
+  text-align: left;
+  transform: rotate(0.27deg);
+  width: auto;
+}
+.albums .misc-avatar40x40-ab-IcPKRJ {
+  background-color: transparent;
+  height: 40px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+.albums .music-page-xng6eV {
+  background-color: transparent;
+  color: var(--abbey);
+  flex-shrink: 0;
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 2px;
+  margin-top: 1.0px;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 105px;
+}
+.albums .music-page-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.albums .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 1798px;
+  margin-left: -4px;
+  margin-top: 41px;
+  position: relative;
+  width: 918px;
+}
+.albums .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 188px;
+  margin-left: 48px;
+  margin-top: 86px;
+  position: relative;
+  width: 729px;
+}
+.albums .overlap-group2-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 43px;
+  margin-left: 1px;
+  margin-top: 27px;
+  position: relative;
+  width: 394px;
+}
+.albums .overlap-group3-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 96px;
+  margin-left: 1px;
+  margin-top: 58px;
+  position: relative;
+  width: 188px;
+}
+.albums .overlap-group4-Orh1xz {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 385px;
+  margin-left: -30px;
+  margin-top: -10px;
+  position: relative;
+  width: 305px;
+}
+.albums .overlap-group5-NyxS9z {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 385px;
+  margin-left: -30px;
+  margin-top: -10px;
+  position: relative;
+  width: 305px;
+}
+.albums .play-all-shuffled-RmKyEf {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'TT Norms-Bold', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 52px;
+  left: 18px;
+  letter-spacing: -0.60px;
+  line-height: 20.3px;
+  position: absolute;
+  text-align: left;
+  top: 74px;
+  width: 109px;
+}
+.albums .rating-NyxS9z {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 27px;
+  justify-content: flex-start;
+  margin-left: 19px;
+  margin-top: 29px;
+  min-width: 104px;
+  position: relative;
+  width: auto;
+}
+.albums .rating-Orh1xz {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 27px;
+  justify-content: flex-start;
+  margin-left: 19px;
+  margin-top: 29px;
+  min-width: 104px;
+  position: relative;
+  width: auto;
+}
+.albums .rectangle-1-1nTYKY {
+  background-color: transparent;
+  border: 2px solid var(--oasis);
+  border-radius: 8px;
+  height: 43px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+.albums .rectangle-12-3qiD0e {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-B7WdcB {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-HAfyqM {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-ahIjTr {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-iIYd5q {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-spFrKx {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-wkQhJn {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-12-wz3uof {
+  background-color: transparent;
+  height: 230px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 239px;
+}
+.albums .rectangle-13-RmKyEf {
+  background-color: transparent;
+  height: 200px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 220px;
+}
+.albums .rectangle-14-AIJoEv {
+  background-color: transparent;
+  height: 200px;
+  left: -30px;
+  position: absolute;
+  top: -10px;
+  width: 220px;
+}
+.albums .rectangle-8-gR69Qu {
+  background-color: transparent;
+  height: 368px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+.albums .rectangle-8-llZiop {
+  background-color: transparent;
+  height: 368px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+.albums .rejoice-2tGHxl {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .rejoice-HE8BL1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 73px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .roger-terry-XXlQXL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 83px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .roger-terry-ztr1Ek {
+  background-color: transparent;
+  color: rgba(255,255,255,0.48);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 1px;
+  min-height: 15px;
+  min-width: 83px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .search-IcPKRJ {
+  background-color: transparent;
+  height: 40px;
+  left: 869px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+.albums .send-tTN22q {
+  background-color: transparent;
+  color: rgba(100,44,153,1.0);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 45px;
+}
+.albums .star-DcaAbp {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 1px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-E8kHfM {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 2px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-F1kanJ {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: -14px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-JnemaV {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 1px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-Q4P12Q {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 1px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 14px;
+}
+.albums .star-UuKVA9 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: -14px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-axjVje {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 1px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 14px;
+}
+.albums .star-nxxrm2 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 2px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 14px;
+}
+.albums .star-sgUrvw {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 2px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 15px;
+}
+.albums .star-zq32LN {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 24px;
+  margin-left: 2px;
+  margin-top: -0.19px;
+  position: relative;
+  width: 14px;
+}
+.albums .subtitle-12Hso3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-left: 1px;
+  min-height: 49px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 286px;
+}
+.albums .subtitle-1nTYKY {
+  background-color: transparent;
+  border: 0;
+  color: var(--oasis);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: 32px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 352px;
+}
+.albums .subtitle-1nTYKY::placeholder {
+  color: rgba(253,239,209,0.6);
+}
+.albums .subtitle-Acup6n {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 100px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  width: 62px;
+}
+.albums .subtitle-FUvGVV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: 119px;
+}
+.albums .subtitle-GxSMRH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 188px;
+}
+.albums .subtitle-SwcvWr {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-left: 1px;
+  margin-top: 3px;
+  min-height: 48px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+.albums .subtitle-gzbRuy {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-bottom: -11px;
+  margin-top: 0px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 99px;
+}
+.albums .subtitle-iQ3M1B {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-bottom: -11px;
+  margin-top: 14px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 165px;
+}
+.albums .subtitle-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 30px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 263px;
+}
+.albums .tame-impala-CR6QBY {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 91px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .text-RH0WJ5 {
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Avenir-Heavy', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  left: 143px;
+  letter-spacing: -0.84px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  width: auto;
+}
+.albums .textlabel-12Hso3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0.53px;
+  min-height: 22px;
+  position: relative;
+  text-align: left;
+  width: 17px;
+}
+.albums .the-slow-rush-CR6QBY {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 140px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .title-4uYf9V {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 0;
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 25.8px;
+  min-height: 40px;
+  position: relative;
+  text-align: center;
+  width: 42px;
+}
+.albums .title-Acup6n {
+  background-color: transparent;
+  color: var(--oasis);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 67px;
+  position: relative;
+  text-align: left;
+  width: 177px;
+}
+.albums .title-RH0WJ5 {
+  background-color: transparent;
+  color: var(--abbey);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 729px;
+}
+.albums .tony-allen-hugh-mas-2tGHxl {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 156px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .tony-allen-hugh-mas-HE8BL1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0px;
+  min-height: 15px;
+  min-width: 156px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .top-genres-4eduM0 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 74px;
+  min-height: 289px;
+  position: absolute;
+  top: 490px;
+  width: 796px;
+}
+.albums .top-genres-W9gGPL {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 38px;
+  min-width: 193px;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+.albums .vector-JTw8zN {
+  background-color: transparent;
+  height: 35px;
+  left: -0px;
+  position: absolute;
+  top: 2px;
+  width: 43px;
+}
+.albums .vector-SVnJYg {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 21px;
+  position: relative;
+  width: 18px;
+}
+.albums .vector-a2xx1T {
+  background-color: transparent;
+  height: 11px;
+  left: -1px;
+  position: absolute;
+  top: 7px;
+  width: 19px;
+}
+.albums .vector-xzuXZA {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 39px;
+  margin-left: 0px;
+  margin-top: -0.23px;
+  position: relative;
+  width: 42px;
+}
+.albums .x-light-IcPKRJ {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  height: 56px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 918px;
+  padding: 14px 64px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.albums .x002-add-button-1-AIJoEv {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  height: 39px;
+  justify-content: flex-start;
+  left: 19px;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 41px;
+}
+.albums .x10-sp-caps-xs-medium-F1kanJ {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 18px;
+  justify-content: flex-start;
+  margin-bottom: 0.43px;
+  margin-left: 1px;
+  min-width: 37px;
+  opacity: 0.48;
+  position: relative;
+  width: auto;
+}
+.albums .x10-sp-caps-xs-medium-UuKVA9 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 18px;
+  justify-content: flex-start;
+  margin-bottom: 0.43px;
+  margin-left: 1px;
+  min-width: 37px;
+  opacity: 0.48;
+  position: relative;
+  width: auto;
+}
+.albums .x102-shuffle-1-RmKyEf {
+  background-color: transparent;
+  height: 39px;
+  left: 18px;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 42px;
+}
+.albums .x20-sp-title-medium-VXNvua {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 42px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.border-class-1 {
+
+}
+.lato-bold-oasis-18px {
+  color: var(--oasis);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-normal-abbey-18px {
+  color: var(--abbey);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.wendyone-normal-stack-14px {
+  color: var(--stack);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.wendyone-normal-white-20px {
+  color: var(--white);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --abbey: rgba(79,79,79,1.0);
+  --oasis: rgba(253,239,209,1.0);
+  --oasis-2: rgba(254,239,208,1.0);
+  --stack: rgba(138,138,138,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.8);
+}

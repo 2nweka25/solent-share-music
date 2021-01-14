@@ -1,0 +1,779 @@
+/* screen - solent-share-creativity-music */
+
+.lato-bold-oasis-18px {
+  color: var(--oasis);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.lato-normal-abbey-18px {
+  color: var(--abbey);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.solent-share-creativity-music {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4150px;
+  overflow-x: hidden;
+  position: relative;
+  width: 918px;
+}
+.solent-share-creativity-music .auto-flex-bLWJvS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 95px;
+  min-height: 307px;
+  position: relative;
+  width: 395px;
+}
+.solent-share-creativity-music .auto-flex1-tybepC {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 49px;
+  justify-content: flex-start;
+  margin-top: 60px;
+  min-width: 304px;
+  position: relative;
+  width: auto;
+}
+.solent-share-creativity-music .auto-flex2-bLWJvS {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-height: 294px;
+  position: relative;
+  width: 177px;
+}
+.solent-share-creativity-music .auto-flex3-tybepC {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 307px;
+  justify-content: flex-start;
+  min-width: 805px;
+  position: relative;
+  width: auto;
+}
+.solent-share-creativity-music .background1-RH0WJ5 {
+  background-color: transparent;
+  height: 1180px;
+  left: 0px;
+  position: absolute;
+  top: 362px;
+  width: 918px;
+}
+.solent-share-creativity-music .background2-4eduM0 {
+  background-color: transparent;
+  height: 1659px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 918px;
+}
+.solent-share-creativity-music .blogs-xng6eV {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 10px;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 77px;
+}
+.solent-share-creativity-music .blogs-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.solent-share-creativity-music .colors-bac-d-gradient-VXNvua {
+  background-color: transparent;
+  background-image: url(../img/bg-gradient@2x.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.solent-share-creativity-music .cta-KQ9K1W {
+  background-color: rgba(218,18,18,1.0);
+  border-radius: 8px;
+  flex-shrink: 0;
+  height: 43px;
+  margin-left: 1px;
+  margin-top: 42px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 206px;
+}
+.solent-share-creativity-music .cta-KQ9K1W:hover {
+
+transform: scale(1.1);
+}
+.solent-share-creativity-music .cta-w9B5sx {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 43px;
+  margin-top: 48px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 213px;
+}
+.solent-share-creativity-music .cta-w9B5sx:hover {
+
+transform: scale(1.1);
+}
+.solent-share-creativity-music .footer-4eduM0 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 57px;
+  min-height: 416px;
+  position: absolute;
+  top: 1022px;
+  width: 805px;
+}
+.solent-share-creativity-music .frame-1-bLWJvS {
+  background-color: var(--oasis);
+  border-radius: 8px;
+  flex-shrink: 0;
+  height: 43px;
+  margin-left: 32px;
+  margin-top: 57.55px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+.solent-share-creativity-music .frame-1-bLWJvS:hover {
+
+transform: scale(1.1);
+}
+.solent-share-creativity-music .header-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 56px;
+  position: relative;
+  width: 918px;
+}
+.solent-share-creativity-music .home-xng6eV {
+  background-color: transparent;
+  color: var(--abbey);
+  flex-shrink: 0;
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+.solent-share-creativity-music .home-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.solent-share-creativity-music .image-7-IcPKRJ {
+  background-color: transparent;
+  height: 87px;
+  left: 291px;
+  position: absolute;
+  top: 19px;
+  width: 168px;
+}
+.solent-share-creativity-music .image-8-4eduM0 {
+  background-color: transparent;
+  height: 504px;
+  left: 3px;
+  position: absolute;
+  top: 394px;
+  width: 915px;
+}
+.solent-share-creativity-music .misc-avatar40x40-ab-IcPKRJ {
+  background-color: transparent;
+  height: 40px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+.solent-share-creativity-music .miss-cupcake-RH0WJ5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 45px;
+  min-height: 377px;
+  padding: 0 20px;
+  position: absolute;
+  top: 0px;
+  width: 562px;
+}
+.solent-share-creativity-music .music-page-fjm56r {
+  background-color: transparent;
+  color: rgba(251,250,201,1.0);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 194px;
+}
+.solent-share-creativity-music .music-page-xng6eV {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 25px;
+  pointer-events: auto;
+  position: relative;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 105px;
+}
+.solent-share-creativity-music .music-page-xng6eV:hover {
+
+transform: translate(0, -4px);
+}
+.solent-share-creativity-music .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 1659px;
+  margin-top: 8px;
+  position: relative;
+  width: 918px;
+}
+.solent-share-creativity-music .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 2349px;
+  margin-top: 78px;
+  position: relative;
+  width: 918px;
+}
+.solent-share-creativity-music .overlap-group2-KQ9K1W {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 292px;
+  position: relative;
+  width: 521px;
+}
+.solent-share-creativity-music .overlap-group2-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 43px;
+  margin-left: 1px;
+  margin-top: 27px;
+  position: relative;
+  width: 394px;
+}
+.solent-share-creativity-music .overlap-group3-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 96px;
+  margin-left: 1px;
+  margin-top: 58px;
+  position: relative;
+  width: 188px;
+}
+.solent-share-creativity-music .rectangle-1-1nTYKY {
+  background-color: transparent;
+  border: 2px solid var(--oasis);
+  border-radius: 8px;
+  height: 43px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 394px;
+}
+.solent-share-creativity-music .rectangle-1-fjm56r {
+  background-color: rgba(218,18,18,1.0);
+  border-radius: 8px;
+  height: 43px;
+  left: 3px;
+  position: absolute;
+  top: 0px;
+  width: 206px;
+}
+.solent-share-creativity-music .register-Kl7lyv {
+  background-color: transparent;
+  color: rgba(251,250,201,1.0);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 139px;
+}
+.solent-share-creativity-music .search-IcPKRJ {
+  background-color: transparent;
+  height: 40px;
+  left: 869px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+}
+.solent-share-creativity-music .send-tTN22q {
+  background-color: transparent;
+  color: rgba(100,44,153,1.0);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  width: 45px;
+}
+.solent-share-creativity-music .singerimg-2wBF32 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 444px;
+  margin-left: -0.12px;
+  margin-top: 35px;
+  overflow: hidden;
+  position: relative;
+  width: 911px;
+}
+.solent-share-creativity-music .subtitle-12Hso3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-left: 1px;
+  min-height: 49px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 286px;
+}
+.solent-share-creativity-music .subtitle-1nTYKY {
+  background-color: transparent;
+  border: 0;
+  color: var(--oasis);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  height: 32px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 352px;
+}
+.solent-share-creativity-music .subtitle-1nTYKY::placeholder {
+  color: rgba(253,239,209,0.6);
+}
+.solent-share-creativity-music .subtitle-4eduM0 {
+  background-color: transparent;
+  color: rgba(255,249,249,1.0);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 322px;
+  width: 683px;
+}
+.solent-share-creativity-music .subtitle-Acup6n {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: 100px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  width: 62px;
+}
+.solent-share-creativity-music .subtitle-FUvGVV {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: 119px;
+}
+.solent-share-creativity-music .subtitle-GxSMRH {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 188px;
+}
+.solent-share-creativity-music .subtitle-RH0WJ5 {
+  background-color: transparent;
+  color: var(--oasis-2);
+  font-family: 'Lato', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 718px;
+  width: 619px;
+}
+.solent-share-creativity-music .subtitle-SwcvWr {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-left: 1px;
+  margin-top: 3px;
+  min-height: 48px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 103px;
+}
+.solent-share-creativity-music .subtitle-gzbRuy {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-bottom: -11px;
+  margin-top: 0px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 99px;
+}
+.solent-share-creativity-music .subtitle-iQ3M1B {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  margin-bottom: -11px;
+  margin-top: 14px;
+  min-height: 37px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 165px;
+}
+.solent-share-creativity-music .subtitle-tLrs6f {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  min-height: 30px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 263px;
+}
+.solent-share-creativity-music .subtitle-vKQLEC {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 244px;
+  width: 521px;
+}
+.solent-share-creativity-music .subtitle-w9B5sx {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  margin-top: 17px;
+  min-height: 44px;
+  position: relative;
+  text-align: left;
+  width: 646px;
+}
+.solent-share-creativity-music .text-2wBF32 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 11.76px;
+  min-height: 338px;
+  position: relative;
+  width: 646px;
+}
+.solent-share-creativity-music .textlabel-12Hso3 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: 0.53px;
+  min-height: 22px;
+  position: relative;
+  text-align: left;
+  width: 17px;
+}
+.solent-share-creativity-music .title-4eduM0 {
+  background-color: transparent;
+  color: var(--oasis-2);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  width: 713px;
+}
+.solent-share-creativity-music .title-4uYf9V {
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 0;
+  font-family: 'Inter', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 25.8px;
+  min-height: 40px;
+  position: relative;
+  text-align: center;
+  width: 42px;
+}
+.solent-share-creativity-music .title-Acup6n {
+  background-color: transparent;
+  color: var(--oasis);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  min-height: 67px;
+  position: relative;
+  text-align: left;
+  width: 177px;
+}
+.solent-share-creativity-music .title-RH0WJ5 {
+  background-color: transparent;
+  color: var(--oasis-2);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 28px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 524px;
+  width: 554px;
+}
+.solent-share-creativity-music .title-vKQLEC {
+  background-color: transparent;
+  color: var(--abbey);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 512px;
+}
+.solent-share-creativity-music .title-w9B5sx {
+  align-self: center;
+  background-color: transparent;
+  color: var(--abbey);
+  flex-shrink: 0;
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-right: 0.0px;
+  min-height: 186px;
+  position: relative;
+  text-align: left;
+  width: 632px;
+}
+.solent-share-creativity-music .video-RH0WJ5 {
+  background-color: transparent;
+  height: 604px;
+  left: 0px;
+  position: absolute;
+  top: 891px;
+  width: 918px;
+}
+.solent-share-creativity-music .x-light-IcPKRJ {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  height: 56px;
+  justify-content: flex-end;
+  left: 0px;
+  min-width: 918px;
+  padding: 15px 50px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.solent-share-creativity-music .x20-sp-title-medium-VXNvua {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: flex-start;
+  left: 0px;
+  min-width: 42px;
+  position: absolute;
+  top: 0px;
+  width: auto;
+}
+.solent-share-creativity-music .x3rd-comp-RH0WJ5 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 7px;
+  min-height: 817px;
+  position: absolute;
+  top: 1532px;
+  width: 911px;
+}
+.wendyone-normal-stack-14px {
+  color: var(--stack);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.wendyone-normal-white-20px {
+  color: var(--white);
+  font-family: 'Wendy One', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --abbey: rgba(79,79,79,1.0);
+  --oasis: rgba(253,239,209,1.0);
+  --oasis-2: rgba(254,239,208,1.0);
+  --stack: rgba(138,138,138,1.0);
+  --white: rgba(255,255,255,1.0);
+  --white-2: rgba(255,255,255,0.8);
+}

@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,900,700|Wendy+One:400|Inter:500|Roboto:500");
+.blogs {
+  letter-spacing: 0px;
+  margin-left: 10px;
+  min-height: 25px;
+  pointer-events: auto;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 77px;
+}
+.blogs:hover {
+  transform: translate(0, -4px);
+}
+.home {
+  letter-spacing: 0px;
+  min-height: 25px;
+  pointer-events: auto;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 67px;
+}
+.home:hover {
+  transform: translate(0, -4px);
+}
+.lato-black-abbey-18px {
+  color: var(--abbey);
+  font-family: "Lato", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+}
+.lato-normal-abbey-18px {
+  color: var(--abbey);
+  font-family: "Lato", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.music-page {
+  letter-spacing: 0px;
+  margin-left: 2px;
+  min-height: 25px;
+  pointer-events: auto;
+  text-align: left;
+  transition: all 0.2s ease;
+  width: 105px;
+}
+.music-page:hover {
+  transform: translate(0, -4px);
+}
+.x-light {
+  align-items: flex-end;
+  background-color: white;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 918px;
+  padding: 15px 50px;
+}
+:root {
+  --abbey: rgba(79, 79, 79, 1);
+}
+
+.image-7 {
+  height: 87px;
+  width: 168px;
+}
